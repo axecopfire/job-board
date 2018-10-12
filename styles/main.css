@@ -1,3 +1,15 @@
 input {
   display: block;
 }
+.error {
+  font-size: 20px;
+  height: 20px;
+  padding: 10px 20px 10px 0;
+  color: tomato;
+  font-weight: bold;
+}
+
+input[type=submit] {
+  padding: 10px;
+  margin: 10px 0;
+}

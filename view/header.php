@@ -1,4 +1,4 @@
-<?php include "functions.php" ?>
+<?php include "sanitization.php" ?>
 
 <!DOCTYPE html>
 <html lang="en">
